@@ -114,4 +114,6 @@ The process happens like this:
 ✔ Ports → Identify services  
 ✔ Protocols → Define communication rules  
 
-These concepts are essential for DevOps, Cloud, and Networking.
+These Networking concepts are essential for DevOps, Cloud, and Software Engineers.
+
+
